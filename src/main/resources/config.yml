@@ -1,0 +1,9 @@
+# ===== SimplePlayerCrasher Config =====
+
+# Enables or disables the /crash command
+# Options: "true", "false"
+crashcmd-enabled: true
+
+# Language for plugin messages
+# Options: "german", "english"
+language: german

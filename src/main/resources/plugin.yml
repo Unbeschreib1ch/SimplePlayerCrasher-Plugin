@@ -1,0 +1,13 @@
+name: SimplePlayerCrasher
+version: '1.0-SNAPSHOT'
+main: de.unbeschreib1ch.simpleplayercrasher.SimplePlayerCrasher
+api-version: '1.21'
+load: STARTUP
+authors: [ Unbeschreib1ch ]
+description: Lässt das Spiel von Spielern per Command abstürzen
+
+commands:
+  crash:
+    description: Lässt das Spiel von Spielern per Command abstürzen
+    usage: /crash <player>
+    permission-message: §7[§4§lSimplePlayerCrasher§7] §8» §cDazu hast du keine Rechte!
